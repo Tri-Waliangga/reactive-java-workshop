@@ -1,7 +1,11 @@
 # Default ignored files
 /shelf/
 .DS_Store
+
+# intelliJ ignore
 .idea/
+**/.idea/workspace.xml
+**/.idea/tasks.xml
 
 # Compiled class file
 *.class
